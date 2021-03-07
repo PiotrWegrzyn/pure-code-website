@@ -112,17 +112,13 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <h3 className="fa-bold">Email:</h3>
-          {/*<ul className="icons">*/}
-          {/*  <li>*/}
-          {/*    <a*/}
-          {/*      href="https://www.linkedin.com/company/pure-code"*/}
-          {/*      className="icon fa-linkedin"*/}
-          {/*    >*/}
-          {/*      <span className="label">LinkedIn</span>*/}
-          {/*    </a>*/}
-          {/*  </li>*/}
-          {/*</ul>*/}
+          <p>
+            <b><span><i className="fa fa-envelope"></i></span> <span className="">Email:</span></b> <span>peter.wegrzyn@pure-code.net</span>
+          </p>
+          <p>
+            <b><span><i className="fa fa-phone f"></i></span> <span>Phone:</span></b> <span>+48 534 851 363</span>
+          </p>
+
           {close}
         </article>
       </div>
