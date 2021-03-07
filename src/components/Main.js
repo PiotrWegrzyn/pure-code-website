@@ -57,7 +57,7 @@ class Main extends React.Component {
             Automation
           </h5>
           <p>
-            We are a group of programmers who live by the Al Sweigart's motto "Automate the boring stuff".
+            We are a group of programmers who live by the Al Sweigart's motto <i>"Automate the boring stuff"</i>.
           </p>
           <p>
             The amount of human potential waisted on tedious and boring processes is what keeps us awake at night.
