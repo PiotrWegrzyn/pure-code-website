@@ -1,21 +1,19 @@
-![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
+# gatsby-starter-dimension
 
-# Gatsby Example
+**This is a starter for Gatsby.js V2.**
 
-This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+**The older V1 version of this starter can be found on the v1 branch:**
 
-## Deploy Your Own
+Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
 
-Deploy your own Gatsby project, along with Serverless Functions, with Vercel.
+## Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/gatsby)
+https://gatsby-dimension.surge.sh/
 
-_Live Example: https://gatsby.now-examples.now.sh_
+## Installation
 
-### How We Created This Example
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+<br/>
+`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
 
-To get started with Gatsby on Vercel, you can use the [Gatsby CLI](https://www.gatsbyjs.org/docs/gatsby-cli/) to initialize the project:
-
-```shell
-$ gatsby new gatsby-site
-```
+Run `gatsby develop` in the terminal to start the dev site.
