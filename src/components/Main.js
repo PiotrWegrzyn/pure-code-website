@@ -33,13 +33,33 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
+          <h4>
+            Who are we?
+          </h4>
+          <p>
+            We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new tech solutions.
+          </p>
+          <h4>
+            Our principals
+          </h4>
+          <h5>
+            Simplicity
+          </h5>
+          <p>
+            We know there is power in simplicity. That's why we try to keep the code clean and simple.
+            Clean and <b>Pure code</b> means order. Order means control. Control means <b>reliability</b> and reliable
+            solutions that is what we pride ourselves on.
+          </p>
+          <h5>
+            Automation
+          </h5>
           <p>
             We are a group of programmers who live by the Al Sweigart's motto "Automate the boring stuff".
           </p>
           <p>
             The amount of human potential waisted on tedious and boring processes is what keeps us awake at night.
-            We know that automation frees people from the burden of performing repetitive tasks but also error rate
-            while increasing efficiency and scalability.
+            We know that automation frees people from the burden of performing repetitive tasks but also removes the
+            human error factor while increasing efficiency and scalability.
             With this in mind our missions became to help as many companies as possible to unlock their potential and
             help them take their business to another level with our solutions.
           </p>
@@ -58,8 +78,8 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Many say information is the new gold and is this paradigm The Web would be the gold mine. This is why we
-            build web scrapers.
+            Many say information is the new gold and is this paradigm The Web would be the gold mine that's why we build
+            web scrapers.
           </p>
           <p>
             We are helping companies collect publicly available data from The Web by building python based web scrapers
@@ -80,6 +100,13 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
+          <p>
+            Web applications are the bread and butter of any modern business and we take it upon ourselves to leverage
+            the power of the newest technologies to create tailored solutions for our clients. We understand that in the
+            modern world the application that we will create will often serve as the only hub between you and your
+            customers that's why it's reliability and it's appeal to the users will be directly interpreted as the
+            reliability of your business.
+          </p>
           <p>
             So far we had the opportunity to build web applications that aid the day to day tasks in financial
             institutions, hotels and even hospitals.
