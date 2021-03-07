@@ -53,7 +53,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Web Applications</h2>
+          <h2 className="major">Web Scraping</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
@@ -76,7 +76,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">Web applications</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
@@ -94,7 +94,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">System Integrations</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
