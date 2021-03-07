@@ -45,7 +45,7 @@ class Main extends React.Component {
           <p>
             We know there is power in simplicity. That's why we try to keep the code clean and simple.
             Clean and <b>Pure code</b> means order. Order means control. Control means <b>reliability</b> and reliable
-            solutions that is what we pride ourselves on.
+            solutions are what we pride ourselves on.
           </p>
           <h5>
             Automation
