@@ -30,9 +30,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">About</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
           <h4>
             Who are we?
           </h4>
@@ -74,9 +71,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Web Scraping</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
           <p>
             Many say information is the new gold and is this paradigm The Web would be the gold mine that's why we build
             web scrapers.
@@ -97,9 +91,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Web applications</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
           <p>
             Web applications are the bread and butter of any modern business and we take it upon ourselves to leverage
             the power of the newest technologies to create tailored solutions for our clients. We understand that in the
@@ -122,9 +113,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">System Integration Consulting</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
+          {/*<span className="image main">*/}
+          {/*  <img src={pic03} alt="" />*/}
+          {/*</span>*/}
           <p>
             We offer consulting services in enterprise integration area. We can help you to clarify the business requirements, create the data model, define business data flows, costs and timeline estimations, project schedules and API strategy. We can minimise the danger of going into a wrong direction.
           </p>
