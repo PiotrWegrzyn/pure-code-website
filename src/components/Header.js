@@ -4,7 +4,7 @@ import React from 'react'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <img src="icons/lotus.svg" alt="Pure Code logo" height="69%" style={{margin: '0.8em', filter: "invert(100%)"}}/>
     </div>
     <div className="content">
       <div className="inner">
