@@ -40,7 +40,7 @@ class Main extends React.Component {
             What do we do?
           </h4>
           <p>
-            We build state of the art web applications, scrape information from the web with by creating web spiders and provide consulting services for system integrations.
+            We build state of the art <b>web applications</b>, scrape information from the web with by creating <b>web crawlers</b> and provide consulting services for <b>system integrations</b>.
           </p>
           <h4>
             Our principals
