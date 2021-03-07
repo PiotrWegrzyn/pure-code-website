@@ -117,6 +117,9 @@ class Main extends React.Component {
           {/*  <img src={pic03} alt="" />*/}
           {/*</span>*/}
           <p>
+            Looking for a vendor with experienced systems integration consultants who offer a full suite of IT integration services and can help with everything from strategy and development to ongoing support and maintenance?
+          </p>
+          <p>
             We offer consulting services in enterprise integration area. We can help you to clarify the business requirements, create the data model, define business data flows, costs and timeline estimations, project schedules and API strategy. We can minimise the danger of going into a wrong direction.
           </p>
           <p>
