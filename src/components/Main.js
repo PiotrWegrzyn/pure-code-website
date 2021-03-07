@@ -94,12 +94,15 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">System Integrations</h2>
+          <h2 className="major">System Integration Consulting</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
           <p>
-            We integrate systems.
+            We offer consulting services in enterprise integration area. We can help you to clarify the business requirements, create the data model, define business data flows, costs and timeline estimations, project schedules and API strategy. We can minimise the danger of going into a wrong direction.
+          </p>
+          <p>
+            When it comes to platforms, systems and/or applications integration services, we can do it all. Furthermore, our experts are skilled in using such proven integration platforms as MuleSoft to help companies become better connected entities. Finally our certified professionals are extremely skilled in API strategy and microservices consulting thus helping enterprises be more agile, responsive and able to make better decisions.
           </p>
           {close}
         </article>
