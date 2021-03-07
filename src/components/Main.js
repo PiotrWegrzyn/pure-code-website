@@ -37,6 +37,12 @@ class Main extends React.Component {
             We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new tech solutions.
           </p>
           <h4>
+            What do we do?
+          </h4>
+          <p>
+            We build state of the art web applications, scrape information from the web with by creating web spiders and provide consulting services for system integrations.
+          </p>
+          <h4>
             Our principals
           </h4>
           <h5>
