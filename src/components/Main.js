@@ -113,7 +113,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Contact</h2>
           <p>
-            <b><span><i className="fa fa-envelope"></i></span> <span className="">Email:</span></b> <span>peter.wegrzyn@pure-code.net</span>
+            <b><span><i className="fa fa-envelope"></i></span> <span className="">Email:</span></b> <span>peter@pure-code.net</span>
           </p>
           <p>
             <b><span><i className="fa fa-phone f"></i></span> <span>Phone:</span></b> <span>+48 534 851 363</span>
