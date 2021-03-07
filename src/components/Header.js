@@ -16,24 +16,6 @@ const Header = props => (
     </div>
     <nav>
       <ul>
-        {/*<li>*/}
-        {/*  <button*/}
-        {/*    onClick={() => {*/}
-        {/*      props.onOpenArticle('intro')*/}
-        {/*    }}*/}
-        {/*  >*/}
-        {/*    Intro*/}
-        {/*  </button>*/}
-        {/*</li>*/}
-        {/*<li>*/}
-        {/*  <button*/}
-        {/*    onClick={() => {*/}
-        {/*      props.onOpenArticle('work')*/}
-        {/*    }}*/}
-        {/*  >*/}
-        {/*    Work*/}
-        {/*  </button>*/}
-        {/*</li>*/}
         <li>
           <button
             onClick={() => {
@@ -41,6 +23,33 @@ const Header = props => (
             }}
           >
             About
+          </button>
+        </li>
+        <li>
+          <button
+            onClick={() => {
+              props.onOpenArticle('web_scraping')
+            }}
+          >
+            Web Scraping
+          </button>
+        </li>
+        <li>
+          <button
+            onClick={() => {
+              props.onOpenArticle('web_apps')
+            }}
+          >
+            Web Apps
+          </button>
+        </li>
+        <li>
+          <button
+            onClick={() => {
+              props.onOpenArticle('system_integrations')
+            }}
+          >
+            Integrations
           </button>
         </li>
         <li>
