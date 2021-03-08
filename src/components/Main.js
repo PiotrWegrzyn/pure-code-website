@@ -34,13 +34,15 @@ class Main extends React.Component {
             Who are we?
           </h4>
           <p>
-            We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new tech solutions.
+            We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new
+            tech solutions.
           </p>
           <h4>
             What do we do?
           </h4>
           <p>
-            We build state of the art <b>web applications</b>, scrape information from the web with by creating <b>web crawlers</b> and provide consulting services for <b>system integrations</b>.
+            We build state of the art <b>web applications</b>, scrape information from the web by creating
+            <b>web crawlers</b> and provide consulting services for <b>system integrations</b>.
           </p>
           <h4>
             Our principals
@@ -50,8 +52,8 @@ class Main extends React.Component {
           </h5>
           <p>
             We know there is power in simplicity. That's why we try to keep the code clean and simple.
-            Clean and <b>Pure code</b> means order. Order means control. Control means <b>reliability</b> and reliable
-            solutions are what we pride ourselves on.
+            Clean and <b>Pure code</b> means order. Order means predictability. Predictability means <b>reliability</b>
+            and reliable solutions are what we pride ourselves on.
           </p>
           <h5>
             Automation
@@ -78,13 +80,13 @@ class Main extends React.Component {
         >
           <h2 className="major">Web Scraping</h2>
           <p>
-            Many say information is the new gold and is this paradigm The Web would be the gold mine that's why we build
-            web scrapers.
+            Many say information is the new gold and is this paradigm The Web would be the gold mine.
+            That's why we build web scrapers.
           </p>
           <p>
             We are helping companies collect publicly available data from The Web by building python based web scrapers
             that provide them with the information they need. Whether you're working with AI or make your business on
-            collecting scattered data we would be glad to provide you with our service.
+            collecting scattered data we would be delighted to provide you with our service.
           </p>
           {close}
         </article>
@@ -100,7 +102,7 @@ class Main extends React.Component {
           <p>
             Web applications are the bread and butter of any modern business and we take it upon ourselves to leverage
             the power of the newest technologies to create tailored solutions for our clients. We understand that in the
-            modern world the application that we will create will often serve as the only hub between you and your
+            modern world the application that we will create, will often serve as the only interface between you and your
             customers that's why it's reliability and it's appeal to the users will be directly interpreted as the
             reliability of your business.
           </p>
