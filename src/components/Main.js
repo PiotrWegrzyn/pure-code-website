@@ -34,15 +34,13 @@ class Main extends React.Component {
             Who are we?
           </h4>
           <p>
-            We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new
-            tech solutions.
+            We are a group of developers and tech enthusiasts who are ready to help you enrich your business with new tech solutions.
           </p>
           <h4>
             What do we do?
           </h4>
           <p>
-            We build state of the art <b>web applications</b>, scrape information from the web by creating
-            <b>web crawlers</b> and provide consulting services for <b>system integrations</b>.
+            We build state of the art <b>web applications</b>, scrape information from the web by creating <b>web crawlers</b> and provide consulting services for <b>system integrations</b>.
           </p>
           <h4>
             Our principals
@@ -51,9 +49,7 @@ class Main extends React.Component {
             Simplicity
           </h5>
           <p>
-            We know there is power in simplicity. That's why we try to keep the code clean and simple.
-            Clean and <b>Pure code</b> means order. Order means predictability. Predictability means <b>reliability</b>
-            and reliable solutions are what we pride ourselves on.
+            We know there is power in simplicity. That's why we try to keep the code clean and simple. Clean and <b>Pure code</b> means order. Order means predictability. Predictability means <b>reliability</b> and reliable solutions are what we pride ourselves on.
           </p>
           <h5>
             Automation
@@ -62,11 +58,7 @@ class Main extends React.Component {
             We are a group of programmers who live by the Al Sweigart's motto <i>"Automate the boring stuff"</i>.
           </p>
           <p>
-            The amount of human potential waisted on tedious and boring processes is what keeps us awake at night.
-            We know that automation frees people from the burden of performing repetitive tasks but also removes the
-            human error factor while increasing efficiency and scalability.
-            With this in mind our missions became to help as many companies as possible to unlock their potential and
-            help them take their business to another level with our solutions.
+            The amount of human potential waisted on tedious and boring processes is what keeps us awake at night. We know that automation frees people from the burden of performing repetitive tasks but also removes the  human error factor while increasing efficiency and scalability. With this in mind our missions became to help as many companies as possible to unlock their potential and help them take their business to another level with our solutions.
           </p>
           {close}
         </article>
