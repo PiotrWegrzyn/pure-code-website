@@ -72,7 +72,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Web Scraping</h2>
           <p>
-            Many say information is the new gold and is this paradigm The Web would be the gold mine.
+            Many say information is the new gold and in this paradigm The Web would be the gold mine.
             That's why we build web scrapers.
           </p>
           <p>
